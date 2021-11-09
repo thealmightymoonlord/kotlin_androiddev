@@ -1,3 +1,5 @@
+// novembre 9 2021 (657am)
+
 fun main() {
     val border = "`-._,-'"
     val timesToRepeat = 4
